@@ -1,8 +1,7 @@
-Shlok Patel - Resume
+###H1 Shlok Patel
 
--- Northeastern University 2025 - 2029
--- Educational Experience at Northeastern University:
---   Oasis Club 
---   Alliance Of Civically Engaged Students
---   EClub Husky Startup Challenge
+-- Resume:
+Northeastern University Expected Graduation 2029
 
+Major: Business Administration and Computer Science
+Concentrations: FinTech and Math
