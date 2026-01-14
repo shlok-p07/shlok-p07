@@ -69,11 +69,7 @@ B.S. in Computer Science & Business Administration (FinTech Honors)
 ---
 
 ### 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-p07&show_icons=true&locale=en&layout=compact" alt="shlok-p07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok-p07&show_icons=true&locale=en" alt="shlok-p07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-p07&" alt="shlok-p07" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=shlok-p07&show_icons=true" alt="GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-p07&layout=compact" alt="Top Languages" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-p07" alt="GitHub Streak" /> </p>
 
 ---
 
