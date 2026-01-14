@@ -4,13 +4,6 @@
 
 ---
 
-### 🔗 Connect with Me
-<p align="left">
-  <a href="https://linkedin.com/in/-shlokpatel" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-</p>
-
----
-
 ### 💻 Languages & Tools
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
@@ -72,28 +65,15 @@ B.S. in Computer Science & Business Administration (FinTech Honors)
 - Optimized website performance by 60% through UI/UX improvements.  
 - Managed cross-platform functionality for desktop and mobile users.  
 
----
-
-### 🌟 Leadership & Activities
-**Oasis** — Boston, MA  
-*Project-Series Mentor* | Jan 2026 – Present  
-- Led team to 1st place by developing an emotion recognition app using JavaScript & Node.js.  
-
-**Alliance Of Civically Engaged Students (NU|ACES)** — Boston, MA  
-*Tutor for Math/CS at Squash Busters* | Sep 2025 – Present  
-- Improved students’ Math & CS grades by 90%+ through personalized tutoring.
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shlok-p07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shlok-p07&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shlok-p07&show_icons=true&locale=en&layout=compact" alt="shlok-p07" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-p07&theme=radical" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shlok-p07&show_icons=true&locale=en" alt="shlok-p07" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shlok-p07&" alt="shlok-p07" /></p>
 
 ---
 
