@@ -74,7 +74,7 @@
 
 ### 📫 Contact Me
 **Email:** patel.s15@northeastern.edu  
-**Portfolio** www.shlokpatelportfolio.live   
+**Portfolio:** www.shlokpatelportfolio.live   
 **LinkedIn:** [linkedin.com/in/-shlokpatel](https://linkedin.com/in/-shlokpatel)  
 **GitHub:** [shlok-p07](https://github.com/shlok-p07)  
 **Phone:** (908)-257-1144  
