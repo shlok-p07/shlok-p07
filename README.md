@@ -60,10 +60,7 @@ B.S. in Computer Science & Business Administration (FinTech Honors)
 - Led a team of 5 to build a real-time menu and rating app using React, Tailwind CSS & Figma.  
 - Integrated API from university dining halls to provide live updates.  
 
-**Code4Hope** — Edison, NJ  
-*Operations Director (Software Development)* | Sep 2024 – Aug 2025  
-- Optimized website performance by 60% through UI/UX improvements.  
-- Managed cross-platform functionality for desktop and mobile users.  
+**Reinforcement Learning **
 
 
 ---
@@ -73,15 +70,9 @@ B.S. in Computer Science & Business Administration (FinTech Honors)
 
 ---
 
-### 🧰 Tools & Technologies
-**Programming:** Python, Java, C++, JavaScript, TypeScript, React.js, Node.js, MATLAB, SQL, HTML/CSS  
-**Tools:** VS Code, Figma, Adobe Creative Cloud, MS Office Suite  
-**Interests:** Basketball 🏀, Rap Music 🎵, Graphic Design 🎨, Chess ♟
-
 
 ### 📫 Contact Me
 📧 **Email:** patel.s15@northeastern.edu  
-📍 **Location:** Boston, MA  
 💼 **LinkedIn:** [linkedin.com/in/-shlokpatel](https://linkedin.com/in/-shlokpatel)  
 🐙 **GitHub:** [shlok-p07](https://github.com/shlok-p07)  
 📞 **Phone:** (908)-257-1144  
