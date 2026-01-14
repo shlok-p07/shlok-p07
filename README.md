@@ -78,3 +78,11 @@
 **LinkedIn:** [linkedin.com/in/-shlokpatel](https://linkedin.com/in/-shlokpatel)  
 **GitHub:** [shlok-p07](https://github.com/shlok-p07)  
 **Phone:** (908)-257-1144  
+
+
+<a href="https://github.com/shlok-p07/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats-git-master-shlok-patels-projects-fbdee157.vercel.app/api?username=shlok-p07" />
+</a>
+<a href="https://github.com/shlok-p07/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats-git-master-shlok-patels-projects-fbdee157.vercel.app/api/top-langs?username=shlok-p07&layout=compact&langs_count=8&card_width=320" />
+</a>
