@@ -27,6 +27,11 @@
 ### Recent Actions
 
 <!--START_SECTION:activity-->
+1. 💪 Opened PR [#134](https://github.com/SGAOperations/website-development/pull/134) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
+2. 💪 Opened PR [#133](https://github.com/SGAOperations/website-development/pull/133) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
+3. 💪 Opened PR [#114](https://github.com/SGAOperations/website-development/pull/114) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
+4. 🎉 Merged PR [#110](https://github.com/SGAOperations/website-development/pull/110) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
+5. 💪 Opened PR [#110](https://github.com/SGAOperations/website-development/pull/110) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
 <!--END_SECTION:activity-->
 
 ---
