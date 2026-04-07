@@ -34,7 +34,8 @@
 5. 💪 Opened PR [#110](https://github.com/SGAOperations/website-development/pull/110) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
 <!--END_SECTION:activity-->
 
-![GitHub Activity Graph](https://github-readme-stats-rho-navy.vercel.app/graph?username=shlok-p07&theme=github-dark)
+### GitHub Stats
+[![My Awesome Stats](https://github-readme-stats-rho-navy.vercel.app/user-stats/shlok-p07?cardType=level&theme=chartreuse-dark&fontFamily=IBM%20Plex%20Sans%20JP&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=9.8&Points.PullRequests=15&Points.PullRequestsToAnotherRepositories=15)](https://git.io/awesome-stats-card)
 
 ---
 
