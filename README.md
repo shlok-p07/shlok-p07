@@ -34,6 +34,8 @@
 5. 💪 Opened PR [#110](https://github.com/SGAOperations/website-development/pull/110) in [SGAOperations/website-development](https://github.com/SGAOperations/website-development)
 <!--END_SECTION:activity-->
 
+![GitHub Activity Graph](https://github-readme-stats-rho-navy.vercel.app/graph?username=shlok-p07&theme=github-dark)
+
 ---
 
 ### Contact Me
