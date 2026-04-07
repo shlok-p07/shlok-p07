@@ -69,13 +69,30 @@
 <!--END_SECTION:activity-->
 ---
 ### GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shlok-p07?cardType=level&theme=chartreuse-dark&fontFamily=IBM%20Plex%20Sans%20JP&preferLogin=false&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=9.8&Points.PullRequests=15&Points.PullRequestsToAnotherRepositories=15)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shlok-p07?cardType=level&theme=chartreuse-dark&fontFamily=IBM%20Plex%20Sans%20JP&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=9.8&Points.PullRequests=15&Points.PullRequestsToAnotherRepositories=15)](https://git.io/awesome-stats-card)
 
 ---
 
 ### Contact Me
-**Email:** patel.s15@northeastern.edu  
-**Portfolio:** www.shlokpatelportfolio.live   
-**LinkedIn:** [linkedin.com/in/-shlokpatel](https://linkedin.com/in/-shlokpatel)  
-**GitHub:** [shlok-p07](https://github.com/shlok-p07)  
-**Phone:** (908)-257-1144  
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></td>
+    <td><a href="mailto:patel.s15@northeastern.edu">patel.s15@northeastern.edu</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></td>
+    <td><a href="https://www.shlokpatelportfolio.live">www.shlokpatelportfolio.live</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
+    <td><a href="https://linkedin.com/in/-shlokpatel">linkedin.com/in/-shlokpatel</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
+    <td><a href="https://github.com/shlok-p07">github.com/shlok-p07</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlevoice&logoColor=white" /></td>
+    <td>(908) 257-1144</td>
+  </tr>
+</table>
