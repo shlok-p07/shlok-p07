@@ -10,6 +10,7 @@
 ![](https://github-readme-stats-rho-navy.vercel.app/api?username=shlok-p07&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats-rho-navy.vercel.app/?user=shlok-p07&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats-rho-navy.vercel.app/api/top-langs/?username=shlok-p07&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+[![Shlok's GitHub stats](https://github-readme-stats-rho-navy.vercel.app/api?username=shlok-p07)](https://github.com/shlok-p07/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 ![](https://github-readme-stats-rho-navy.vercel.app/?username=shlok-p07&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
