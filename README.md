@@ -87,12 +87,4 @@
     <td><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></td>
     <td><a href="https://linkedin.com/in/-shlokpatel">linkedin.com/in/-shlokpatel</a></td>
   </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></td>
-    <td><a href="https://github.com/shlok-p07">github.com/shlok-p07</a></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Phone-34A853?style=for-the-badge&logo=googlevoice&logoColor=white" /></td>
-    <td>(908) 257-1144</td>
-  </tr>
 </table>
