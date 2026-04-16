@@ -44,8 +44,7 @@
 
 ---
 ### Projects
-**Oasis** — Boston, MA  
-*Front-End Software Engineer (Team Lead)* | Sep 2025 – Dec 2025  
+**Oasis** — Boston, MA  | ![website link](nu-dining.vercel.app)
 - Developed a full-stack web application with a team of 5, integrating the DineOnCampus API via automated serverless cron jobs to serve real-time daily menus from Northeastern University's three dining halls
 - Designed and implemented a responsive, accessible UI using React, Vite, and TailwindCSS, translating Figma prototypes into production-ready components with dietary filtering and nutrition breakdowns
 - Architected a Supabase PostgreSQL backend with row-level security, managing a relational schema across locations, periods, stations, menu items, and nutrients to support efficient querying at scale
