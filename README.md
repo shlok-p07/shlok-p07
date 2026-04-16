@@ -44,7 +44,7 @@
 
 ---
 ### Projects
-**Oasis** — Boston, MA  | ![website link](nu-dining.vercel.app)
+**Oasis** — Boston, MA
 - Developed a full-stack web application with a team of 5, integrating the DineOnCampus API via automated serverless cron jobs to serve real-time daily menus from Northeastern University's three dining halls
 - Designed and implemented a responsive, accessible UI using React, Vite, and TailwindCSS, translating Figma prototypes into production-ready components with dietary filtering and nutrition breakdowns
 - Architected a Supabase PostgreSQL backend with row-level security, managing a relational schema across locations, periods, stations, menu items, and nutrients to support efficient querying at scale
@@ -53,7 +53,6 @@
 
 
 **Reinforcement Learning for Derivative Hedging**  
-*Personal/Research Project* | In Development  
 - Explores adaptive option hedging strategies using reinforcement learning, moving beyond classical delta-based hedging.  
 - Objectives: Minimize portfolio risk and drawdowns, account for transaction costs, and compare RL-based hedging with traditional delta hedging.  
 - Methods: Custom OpenAI Gym environment, PPO-based RL agent, simulated market dynamics with option Greeks.
