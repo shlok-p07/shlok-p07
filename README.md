@@ -46,8 +46,11 @@
 ### Projects
 **Oasis** — Boston, MA  
 *Front-End Software Engineer (Team Lead)* | Sep 2025 – Dec 2025  
-- Developed a full-stack web application with a team of 5 to have real-time live menus and ratings for the students through integrating an API to keep everything up to date from university dinning halls’ database
-- Designed webpages and overall functionality of the app to have a welcoming user interface using React, tailwind CSS and Figma (prototypes)
+- Developed a full-stack web application with a team of 5, integrating the DineOnCampus API via automated serverless cron jobs to serve real-time daily menus from Northeastern University's three dining halls
+- Designed and implemented a responsive, accessible UI using React, Vite, and TailwindCSS, translating Figma prototypes into production-ready components with dietary filtering and nutrition breakdowns
+- Architected a Supabase PostgreSQL backend with row-level security, managing a relational schema across locations, periods, stations, menu items, and nutrients to support efficient querying at scale
+- Built a user authentication system with Supabase Auth enabling personalized features including a calorie tracker and meal voting system, while maintaining full menu access for unauthenticated users
+- Deployed the application on Vercel with serverless API routes, environment-scoped secrets, and a daily cron pipeline that automatically scrapes and upserts menu data to keep content current without manual intervention
 
 
 **Reinforcement Learning for Derivative Hedging**  
