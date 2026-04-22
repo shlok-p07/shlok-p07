@@ -62,11 +62,11 @@
 ### Recent Actions
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo/pull/10) in [SeanSnaider/26S-Project-SigmaDevs-Repo](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo)
-2. 💪 Opened PR [#10](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo/pull/10) in [SeanSnaider/26S-Project-SigmaDevs-Repo](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo)
-3. 🎉 Merged PR [#4](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo/pull/4) in [SeanSnaider/26S-Project-SigmaDevs-Repo](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo)
-4. 💪 Opened PR [#4](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo/pull/4) in [SeanSnaider/26S-Project-SigmaDevs-Repo](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo)
-5. 🎉 Merged PR [#2](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo/pull/2) in [SeanSnaider/26S-Project-SigmaDevs-Repo](https://github.com/SeanSnaider/26S-Project-SigmaDevs-Repo)
+1. 🔒 Closed issue [#7](https://github.com/Oasis-NEU/f25-group-7/issues/7) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
+2. 🔒 Closed issue [#6](https://github.com/Oasis-NEU/f25-group-7/issues/6) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
+3. 🔒 Closed issue [#5](https://github.com/Oasis-NEU/f25-group-7/issues/5) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
+4. 🔒 Closed issue [#3](https://github.com/Oasis-NEU/f25-group-7/issues/3) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
+5. 🔒 Closed issue [#4](https://github.com/Oasis-NEU/f25-group-7/issues/4) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
 <!--END_SECTION:activity-->
 ---
 ### GitHub Stats
