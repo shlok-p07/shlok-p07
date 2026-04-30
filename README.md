@@ -58,20 +58,6 @@
 - Designed a 6-feature normalized observation space (normalized spot price, time-to-expiry, delta, gamma exposure, current hedge position, and log-moneyness) with an asymmetric reward penalizing downside P&L variance and a terminal settlement penalty, making the agent explicitly risk-averse rather than variance-neutral
 - Evaluated 5 strategies (PPO, SAC, delta hedge, no hedge, random) across all scenarios reporting 8 metrics (Sharpe, VaR 95%, CVaR 95%, mean/std P&L, max loss, % loss episodes, avg transaction cost); PPO improved Sharpe over delta by ~33% in the high-TC regime and ~37% in the volatility mismatch regime
 - Built a 5-page Streamlit dashboard covering live episode animation (agent vs delta hedge step-by-step), real-time training with live learning curves for both agents, full evaluation results, a Monte Carlo scenario lab, and a live SPY options chain with implied vol surface
----
-
-### Recent Actions
-
-<!--START_SECTION:activity-->
-1. 🔒 Closed issue [#7](https://github.com/Oasis-NEU/f25-group-7/issues/7) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
-2. 🔒 Closed issue [#6](https://github.com/Oasis-NEU/f25-group-7/issues/6) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
-3. 🔒 Closed issue [#5](https://github.com/Oasis-NEU/f25-group-7/issues/5) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
-4. 🔒 Closed issue [#3](https://github.com/Oasis-NEU/f25-group-7/issues/3) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
-5. 🔒 Closed issue [#4](https://github.com/Oasis-NEU/f25-group-7/issues/4) in [Oasis-NEU/f25-group-7](https://github.com/Oasis-NEU/f25-group-7)
-<!--END_SECTION:activity-->
----
-### GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/shlok-p07?cardType=level&theme=chartreuse-dark&fontFamily=IBM%20Plex%20Sans%20JP&Points.Commits=10&Points.ContributedToOwnRepositories=10&Points.CreatedRepositories=9.8&Points.PullRequests=15&Points.PullRequestsToAnotherRepositories=15)](https://git.io/awesome-stats-card)
 
 ---
 
