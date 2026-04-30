@@ -53,10 +53,11 @@
 
 
 **Reinforcement Learning for Derivative Hedging**  
-- Explores adaptive option hedging strategies using reinforcement learning, moving beyond classical delta-based hedging.  
-- Objectives: Minimize portfolio risk and drawdowns, account for transaction costs, and compare RL-based hedging with traditional delta hedging.  
-- Methods: Custom OpenAI Gym environment, PPO-based RL agent, simulated market dynamics with option Greeks.
-
+- Framed dynamic option hedging as a continuous-action MDP and trained PPO and SAC agents to hedge a short European call position, benchmarked against Black-Scholes delta hedging across four market scenarios: base, high transaction cost, volatility mismatch, and regime switching
+- Built a custom OpenAI Gym environment replaying 5 years of real SPY daily price data across 1,204 overlapping 30-day windows, exposing agents to the 2020 COVID crash, 2022 rate shock, and 2023–24 bull market within a single training distribution
+- Designed a 6-feature normalized observation space (normalized spot price, time-to-expiry, delta, gamma exposure, current hedge position, and log-moneyness) with an asymmetric reward penalizing downside P&L variance and a terminal settlement penalty, making the agent explicitly risk-averse rather than variance-neutral
+- Evaluated 5 strategies (PPO, SAC, delta hedge, no hedge, random) across all scenarios reporting 8 metrics (Sharpe, VaR 95%, CVaR 95%, mean/std P&L, max loss, % loss episodes, avg transaction cost); PPO improved Sharpe over delta by ~33% in the high-TC regime and ~37% in the volatility mismatch regime
+- Built a 5-page Streamlit dashboard covering live episode animation (agent vs delta hedge step-by-step), real-time training with live learning curves for both agents, full evaluation results, a Monte Carlo scenario lab, and a live SPY options chain with implied vol surface
 ---
 
 ### Recent Actions
