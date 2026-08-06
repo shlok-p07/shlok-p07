@@ -42,6 +42,24 @@ Software engineer building full-stack and AI-integrated systems — see my [port
 - Engineering component and integration test suites with Vitest and React Testing Library, catching UI regressions pre-merge and improving overall frontend reliability
 
 ---
+
+### Research
+
+**Multimodal Machine Learning for Parkinson's Disease Detection** — Northeastern University  
+*Undergraduate Researcher - Advised by Prof. Sarita Singh* | 2026 – Present  
+- Developing the machine learning layer for an edge-computing wearable Parkinson's monitoring system, extending a published IEEE framework (2026 IEEE World AI IoT Congress) that captures resting tremor and bradykinesia from finger-mounted IMU and flex sensors on a Raspberry Pi edge device  
+- Designing a subject-level, leakage-resistant evaluation protocol — three-way train/validation/locked-test split, per-subject cross-validation, and pre-registered significance testing — to produce honestly benchmarked results and avoid the inflated per-recording metrics and selection bias common in digital-biomarker research  
+- Conducting a critical review of 10+ prior studies to isolate an open research gap: no existing work fuses multiple digital biomarkers (voice, finger-tapping, and gait) from the same subjects while comparing several fusion strategies (early, late, gated, and attention) under per-subject evaluation with statistical testing  
+- Building single-modality baselines across classical and deep algorithms (logistic regression, SVM, gradient boosting, 1D-CNN/CNN-LSTM) as a benchmark for whether multimodal fusion yields a statistically significant gain over the strongest single modality, with a per-subject fusion pipeline (per-modality encoders → fusion → calibrated MDS-UPDRS-aligned output) designed for low-cost INT8/TFLite edge deployment
+
+**AI Coding Tools in Programming Education** — Northeastern University  
+*Undergraduate Researcher - Advised by Prof. Sarita Singh* | 2026 – Present  
+- Preparing two work-in-progress poster submissions for the ACM Technical Symposium on Computer Science Education (SIGCSE TS 2027) on integrating AI coding tools into introductory programming courses without eroding students' foundational skills  
+- Leading the drafting of the 2-page ACM extended abstracts in LaTeX (acmart/sigconf), and supporting the design of a differential "human-baseline vs. AI" evaluation protocol in which students solve a task unaided, then with an AI tool, then perform a structured gap analysis on a shared rubric covering correctness, requirement coverage, edge-case handling, and security  
+- Comparing four AI coding tools — GitHub Copilot, Cursor, ChatGPT/Codex, and Claude Code — across four programming paradigms (Python, object-oriented Java, Prolog, TypeScript/JavaScript) and task types including generation, debugging, testing, and refactoring  
+- Applying an integrated TPACK–SAMR–TAM–Bloom framework linking instructional design, tool-integration depth, student acceptance, and learning outcomes, alongside a phased model for sequencing AI use against competence gates  
+
+---
 ### Projects
 **NU Dining**
 - Developed a full-stack web application with a team of 5, integrating the DineOnCampus API via automated serverless cron jobs to serve real-time daily menus from Northeastern University's three dining halls
