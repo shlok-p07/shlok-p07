@@ -15,6 +15,12 @@ Software engineer building full-stack and AI-integrated systems — see my [port
 
 ### Experience
 
+**Khoury College of Computer Sciences** — Boston, MA  
+*Teaching Assistant, Program Design and Implementation II* | May 2026 – Present 
+- Led 30+ weekly debugging sessions in Java for a cohort of 100+ students, coaching object-oriented design, data structure implementation, and control-flow debugging strategies  
+- Taught AI-assisted development workflows, integrating Claude and GitHub Copilot into the curriculum to teach effective prompt engineering alongside traditional debugging  
+- Graded assignments against detailed rubrics, delivering written feedback on SOLID principles, code architecture, and correctness to reinforce best practices  
+
 **Student Government Association (SGA)** — Boston, MA  
 *Software Engineer* | Jan 2026 – Present  
 - Developing a production content management system serving 5,000+ students, enabling non-technical editors to publish independently and cutting publish turnaround time by 10%  
@@ -23,16 +29,10 @@ Software engineer building full-stack and AI-integrated systems — see my [port
 - Shipping features in Agile/Scrum sprints via Linear, coordinating scope directly with team leads and delivering through peer-reviewed pull requests  
 
 **Disrupt: The FinTech Initiative** — Boston, MA  
-*Quantitative Analyst* | Jan 2026 – Present  
+*Quantitative Analyst* | Jan 2026 – May 2026  
 - Building scalable Python backtesting pipelines to evaluate systematic trading signals across 10M+ historical market data points  
 - Developing and deploying pairs-trading, mean-reversion, and momentum strategies against $50K of simulated capital  
 - Translating equity-market research on statistical arbitrage, factor investing, and market microstructure into testable, production-ready trading signals  
-
-**Khoury College of Computer Sciences** — Boston, MA  
-*Teaching Assistant, Program Design and Implementation II* | May 2026 – Jun 2026  
-- Led 30+ weekly debugging sessions in Java for a cohort of 100+ students, coaching object-oriented design, data structure implementation, and control-flow debugging strategies  
-- Taught AI-assisted development workflows, integrating Claude and GitHub Copilot into the curriculum to teach effective prompt engineering alongside traditional debugging  
-- Graded assignments against detailed rubrics, delivering written feedback on SOLID principles, code architecture, and correctness to reinforce best practices  
 
 **Rainfall Learning** — Boston, MA  
 *Software Lead* | Nov 2025 – Jun 2026  
