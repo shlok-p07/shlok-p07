@@ -1,6 +1,8 @@
 <div align="center">
 
-![Shlok Patel — man shlok(1)](console.svg)
+<picture>
+  <img src="console.svg?raw=true" alt="Shlok Patel — man shlok(1)">
+</picture>
 
 </div>
 
