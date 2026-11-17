@@ -82,12 +82,6 @@
   <text x="110" y="1626" font-size="13.5" fill="#c9d1d9" xml:space="preserve">80% fewer trades.</text>
   <text x="110" y="1646" font-size="13.5" fill="#c9d1d9" xml:space="preserve">Redesigned the reward as a conditional value-at-risk objective, then traced via drift-ablation</text>
   <text x="110" y="1666" font-size="13.5" fill="#c9d1d9" xml:space="preserve">how it was gamed by a directional tilt.</text>
-  <text x="90" y="1686" font-size="14"><tspan fill="#e6edf3" font-weight="700">NU Dining</tspan></text>
-  <text x="90" y="1706" font-size="13" fill="#8b949e" xml:space="preserve">React, Vite, Tailwind, Supabase</text>
-  <text x="110" y="1726" font-size="13.5" fill="#c9d1d9" xml:space="preserve">Build a full-stack application serving live daily menus for three dining halls from the</text>
-  <text x="110" y="1746" font-size="13.5" fill="#c9d1d9" xml:space="preserve">DineOnCampus interface on scheduled serverless jobs.</text>
-  <text x="110" y="1766" font-size="13.5" fill="#c9d1d9" xml:space="preserve">Model a Supabase PostgreSQL backend with row-level security, plus authenticated calorie</text>
-  <text x="110" y="1786" font-size="13.5" fill="#c9d1d9" xml:space="preserve">tracking and meal voting.</text>
   <text x="36" y="1822" font-size="14" font-weight="700" fill="#79c0ff" letter-spacing="1">CONTACT</text>
   <text x="90" y="1842" font-size="14" fill="#7ee787">portfolio</text><text x="220" y="1842" font-size="14" fill="#c9d1d9">shlokpatelportfolio.live</text>
   <text x="90" y="1862" font-size="14" fill="#7ee787">github</text><text x="220" y="1862" font-size="14" fill="#c9d1d9">github.com/shlok-p07</text>
