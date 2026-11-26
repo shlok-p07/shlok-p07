@@ -1,7 +1,7 @@
 # Shlok Patel
 
 
-CS & Business (FinTech) at Northeastern · [shlokpatel.tech](https://shlokpatel.tech) · [LinkedIn](https://linkedin.com/in/-shlokpatel) · [Resume](https://shlokpatel.tech/resume.pdf)
+CS & Business (FinTech) at Northeastern · [shlokpatel.tech](https://shlokpatel.tech) · [LinkedIn](https://linkedin.com/in/-shlokpatel) · [Resume](https://www.shlokpatel.tech/Shlok%20Patel's%20Resume(CS).pdf)
 
 ---
 
